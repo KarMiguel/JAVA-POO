@@ -1,4 +1,4 @@
-# CONJUNTO DE PROJETOS OO EM JAVA E USO DE COLEÇÕES,ENRE OUTROS CONCEITOS DE POO
+# CONJUNTO DE PROJETOS OO EM JAVA E USO DE COLEÇÕES
 
 ## BANCO
 Projetinho de um banco com todas funcionalidades bancaria.
